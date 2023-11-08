@@ -1,7 +1,7 @@
 {
   "spider": "./custom_spider_local.jar;md5;354A9990B9AD9BFE5C009157751C7769", 
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img", 
-  "warningText": "码上放生公众号免费整理维护：资源来自网络，无盈利，纯技术分享，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]", 
+  "warningText": "码上放生本地改线上。[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]", 
   "lives": [{"name": "live", "type": 0, "url": "./live_local.txt", "playerType": 1, "ua": "okhttp/3.12.13", 
     "epg": "http://epg.112114.xyz/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png"}], 
   "sites": [
